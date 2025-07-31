@@ -11,7 +11,7 @@ export default function Contact() {
         <div className="md:w-1/2 space-y-8">
           <div>
             <h3 className="text-2xl font-semibold mb-4">Contact Information</h3>
-            <p className="flex items-center gap-3"><FaEnvelope className="text-purple-400" /> lokeshmudduluru@gmail.com</p>
+            <p className="flex items-center gap-3"><FaEnvelope className="text-purple-400" /> mlokesh2182@gmail.com</p>
             <p className="flex items-center gap-3 mt-2"><FaMapMarkerAlt className="text-purple-400" /> USA</p>
           </div>
 

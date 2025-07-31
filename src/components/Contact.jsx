@@ -18,7 +18,7 @@ export default function Contact() {
           <div>
             <h3 className="text-2xl font-semibold mb-4">Connect With Me</h3>
             <div className="flex gap-6">
-              <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
+              <a href="https://github.com/Lokesh-2211" target="_blank" rel="noreferrer">
                 <FaGithub className="text-3xl hover:text-purple-400 transition" />
               </a>
               <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noreferrer">

@@ -21,7 +21,7 @@ export default function Contact() {
               <a href="https://github.com/Lokesh-2211" target="_blank" rel="noreferrer">
                 <FaGithub className="text-3xl hover:text-purple-400 transition" />
               </a>
-              <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/lokesh-mudduluru/" target="_blank" rel="noreferrer">
                 <FaLinkedin className="text-3xl hover:text-purple-400 transition" />
               </a>
             </div>
